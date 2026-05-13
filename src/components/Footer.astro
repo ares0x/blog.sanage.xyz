@@ -23,10 +23,20 @@ const { noMarginTop = false, class: className, ...attrs } = Astro.props;
     ]}
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>Copyright &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>All rights reserved.</span>
+    <div class="my-2 flex flex-col items-center sm:items-start">
+      <div class="flex flex-row items-center whitespace-nowrap">
+        <span>Copyright &#169; {currentYear}</span>
+        <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
+        <span>All rights reserved.</span>
+      </div>
+      <div class="mt-1 text-sm text-foreground/60">
+        <span>More: </span>
+        <a href="https://sanage.xyz" class="underline hover:text-accent">sanage.xyz</a>
+        <span> | </span>
+        <a href="https://brain.sanage.xyz" class="underline hover:text-accent">brain.sanage.xyz</a>
+        <span> | </span>
+        <a href="https://quiz.sanage.xyz" class="underline hover:text-accent">quiz.sanage.xyz</a>
+      </div>
     </div>
   </div>
 </footer>

@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",
     "preview": "astro preview",
+    "new-post": "node scripts/new-post.js",
     "sync": "astro sync",
     "astro": "astro",
     "format:check": "prettier --check .",

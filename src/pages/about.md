@@ -3,35 +3,41 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+你好，我是 **Jace**，一名开发者、独立创作者和终身学习者。
 
-![Astro Paper](public/astropaper-og.jpg)
+我更关注的是：把想法变成可以被体验的产品，而不是局限在某一种题材或表达形式。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## 关于我
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- 👨‍💻 热爱开发与创造，关注技术、产品与工具的结合
+- 🍳 烹饪是我的生活调剂，乐在其中
+- 🐱 和一只无毛猫一起生活，体验人与动物的默契日常
+- 🔮 对中国古代的易学文化和术数感兴趣
 
-## Features
+## 我的作品
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+《深海人格档案》是我做的第一个互动作品，灵感来自谍战剧《潜伏》。当时我在想，如果把观众放进那些关键情境里，他们会如何选择？这个问题，最终变成了一个可以被体验的测试。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+现在，这个站点已经从单一作品展示，升级为我的个人作品集合。未来，这里会持续上线新的实验性项目。
 
-and so much more.
+技术上，我主要做后端开发，前端还在持续补课中。
 
-## Show your support
+## 关于域名
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+**sanage.xyz** 这个域名——因为我在很多平台的昵称是「三阿哥又长高了吗」，所以用一个更短的方式把它保留下来。
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## 找到我
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+如果你有有趣的想法，想一起做点东西，可以在这里找到我：
 
-Kyay zuu! 🙏🏼
+- 小红书：三阿哥又长高了吗
+- 抖音：三阿哥又长高了吗
+- 即刻：@三阿哥又长高了吗
+
+---
+
+这个博客是我记录思考、成长、创作的空间，也希望它能为你带来启发。
+
+欢迎你常来看看，或者在某一篇文章中，留下你的想法 🙌
+
+了解更多作品请访问 [sanage.xyz](https://sanage.xyz)。
