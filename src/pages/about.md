@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: "About"
+description: "了解 Jace，一名开发者、独立创作者和终身学习者，关注技术、产品与创造的结合。"
 ---
 
 你好，我是 **Jace**，一名开发者、独立创作者和终身学习者。

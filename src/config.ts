@@ -1,8 +1,8 @@
 export const SITE = {
   website: "https://blog.sanage.xyz/",
   author: "Jace",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  profile: "https://sanage.xyz",
+  desc: "Jace 的个人博客——记录开发、创作与生活思考，分享独立产品和技术实践。",
   title: "Jace's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/ares0x/blog.sanage.xyz/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
